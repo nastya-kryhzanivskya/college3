@@ -14,4 +14,7 @@
 
 3 - <img width="1017" alt="Знімок екрана 2024-04-09 о 12 35 16" src="https://github.com/nastya-kryhzanivskya/college3/assets/154334074/6c5703ec-a837-40a2-b243-2ddf47f24359">
 
+## Юніт тести з використання бібліотеки PyTest
+
+3 - <img width="569" alt="Знімок екрана 2024-04-10 о 13 08 44" src="https://github.com/nastya-kryhzanivskya/college3/assets/154334074/4aa7fd30-154d-447b-93f1-aed9547fd1c7">
 
